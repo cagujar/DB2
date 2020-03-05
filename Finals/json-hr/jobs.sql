@@ -1,0 +1,1 @@
+select row_to_json(jobs) from "AGUJAR_JSON_HR".jobs;
